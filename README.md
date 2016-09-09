@@ -5,6 +5,7 @@ __included Mods:__
 - Digital Woodland Camo Vest Heavy (Download: http://lastbullet.net/mydownloads.php?action=view_down&did=15912)
 - Digital Woodland Vest Light (Download: http://lastbullet.net/mydownloads.php?action=view_down&did=15912)
 - Blue "Payday 2 " Lootbags (Download: coming soon)
+- Green Metropolitan SWAT (SWAT) (Download: coming soon)
 
 <p align="center">
   <img src="http://abload.de/img/artworktgkdd.png" width="420"/>
