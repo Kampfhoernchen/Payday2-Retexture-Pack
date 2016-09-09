@@ -4,9 +4,15 @@ Collection of new textures for Payday 2 including US Enemies,RUS Enemies, Armor,
 __included Mods:__
 - Digital Woodland Camo Vest Heavy (Download: http://lastbullet.net/mydownloads.php?action=view_down&did=15912)
 - Digital Woodland Vest Light (Download: http://lastbullet.net/mydownloads.php?action=view_down&did=15912)
+- Blue "Payday 2 " Lootbags (Download: coming soon)
 
 <p align="center">
   <img src="http://abload.de/img/artworktgkdd.png" width="420"/>
+  <img src="http://abload.de/img/equipment_lootbag_df.e2jvf.png" width="220"/><br>
+  <i>(Click to view bigger version)</i>
+</p>
+<p align="center">
+  <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/>
   <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/><br>
   <i>(Click to view bigger version)</i>
 </p>
