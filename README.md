@@ -4,12 +4,14 @@ Collection of new textures for Payday 2 including US Enemies, (RU Enemies), Armo
 __included Mods:__
 - Digital Woodland Camo Vest Heavy (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=15912)
 - Digital Woodland Camo Vest Light (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=15912)
-        or
+       
+       or
+       
 - Urban Camo Vest Heavy (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=16448)
 - Urban Camo Vest Light (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=16448)
 <p align="center">
   <img src="http://abload.de/img/artworktgkdd.png" width="420"/>
-  <img src="https://modworkshop.net/mydownloads/previews/preview_19364_1465296219_da0886cc9158d5a2899527e73660d7c2.jpg" width="420"/><br>
+  <img src="https://modworkshop.net/mydownloads/previews/preview_19364_1465296219_da0886cc9158d5a2899527e73660d7c2.jpg" width="375"/><br>
   <i>(Click to view bigger version)</i>
 </p>
 - Black Grenade Case (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=15946)
@@ -35,7 +37,7 @@ __included Mods:__
 - Camo Ammo Bag (Download: coming soon)
 <p align="center">
   <img src="https://modworkshop.net/mydownloads/previews/preview_19364_1473935160_b3457dbce362d177fd0190920e46a33d.png" width="420"/>
-  <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="310"/><br>
+  <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="275"/><br>
   <i>(Click to view bigger version)</i>
 </p>
 - First Aid Kit Bag (Download: coming soon)
