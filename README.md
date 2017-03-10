@@ -52,7 +52,7 @@ __Installation__
 1. Click on the __"Clone or Download"__ Button
 2. Use the __"Download .ZIP"__ Button
 2. Unzip files
-3. Copy the folder __"Retexture Pack"__ to: __Steam\steamapps\common\PAYDAY2\assets\mod_overrides__
+3. Copy the folders (exept "camo textures") to: __Steam\steamapps\common\PAYDAY2\assets\mod_overrides__
 
 __If you already have installed an other texture mod, you have to make sure it doesn´t conflict with this mod or/and delate it before running the game.__
 
