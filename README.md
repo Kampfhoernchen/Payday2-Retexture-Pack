@@ -9,7 +9,7 @@ __included Mods:__
 
 <p align="center">
   <img src="http://abload.de/img/artworktgkdd.png" width="420"/>
-  <img src="http://abload.de/img/equipment_lootbag_df.e2jvf.png" width="220"/><br>
+  <img src="https://modworkshop.net/mydownloads/previews/preview_19364_1473935160_b3457dbce362d177fd0190920e46a33d.png" width="420"/><br>
   <i>(Click to view bigger version)</i>
 </p>
 <p align="center">
