@@ -5,19 +5,35 @@ __included Mods:__
 - Digital Woodland Camo Vest Heavy (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=15912)
 - Digital Woodland Camo Vest Light (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=15912)
 - Blue "Payday 2 " Lootbags (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=17550)
-- Green Metropolitan SWAT (Download: coming soon)
-
 <p align="center">
   <img src="http://abload.de/img/artworktgkdd.png" width="310"/>
   <img src="https://modworkshop.net/mydownloads/previews/preview_19364_1473935160_b3457dbce362d177fd0190920e46a33d.png" width="420"/><br>
   <i>(Click to view bigger version)</i>
 </p>
+- Black Grenade Case (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=15946)
 <p align="center">
   <img src="http://modworkshop.net/mydownloads/previews/preview_19364_1460837007_02de299e26c80e84d352bd46c98d34c8.jpg" width="420"/>
+  <img src="https://modworkshop.net/mydownloads/previews/preview_19364_1460837017_1d0ce9a791c8ea3f8a9ea73efe2fed61.jpg" width="420"/><br>
+  <i>(Click to view bigger version)</i>
+</p>
+- Green Metropolitan SWAT (Download: coming soon)
+- Red Bodybags (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=15904)
+<p align="center">
+  <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="323"/>
+  <img src="https://modworkshop.net/mydownloads/previews/preview_19364_1460401543_f28d79b4c5525616139e93ccdb540011.png" width="420"/><br>
+  <i>(Click to view bigger version)</i>
+</p>
+- Camo Air Vehicle Pack (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=16951)
+<p align="center">
+  <img src="https://modworkshop.net/mydownloads/previews/preview_19364_1469226486_8bacee0c3fc69f78e11bc63d896feee4.jpg" width="420"/>
+  <img src="https://modworkshop.net/mydownloads/previews/preview_19364_1469226440_2874e10d717e998b3213a896976871cd.jpg" width="420"/><br>
+  <i>(Click to view bigger version)</i>
+</p>
+<p align="center">
+  <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/>
   <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/><br>
   <i>(Click to view bigger version)</i>
 </p>
-
 <p align="center">
   <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/>
   <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/><br>
