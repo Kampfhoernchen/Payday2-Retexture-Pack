@@ -1,13 +1,15 @@
 # Payday2 Retexture Pack Development Version!
-Collection of new textures for Payday 2 including US Enemies,RUS Enemies, Armor, Equipment (and Vehicles)
+Collection of new textures for Payday 2 including US Enemies, (RU Enemies), Armor, Equipment and Vehicles
 
 __included Mods:__
 - Digital Woodland Camo Vest Heavy (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=15912)
 - Digital Woodland Camo Vest Light (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=15912)
-- Blue "Payday 2 " Lootbags (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=17550)
+        or
+- Urban Camo Vest Heavy (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=16448)
+- Urban Camo Vest Light (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=16448)
 <p align="center">
   <img src="http://abload.de/img/artworktgkdd.png" width="310"/>
-  <img src="https://modworkshop.net/mydownloads/previews/preview_19364_1473935160_b3457dbce362d177fd0190920e46a33d.png" width="420"/><br>
+  <img src="https://modworkshop.net/mydownloads/previews/preview_19364_1465296219_da0886cc9158d5a2899527e73660d7c2.jpg" width="420"/><br>
   <i>(Click to view bigger version)</i>
 </p>
 - Black Grenade Case (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=15946)
@@ -29,11 +31,14 @@ __included Mods:__
   <img src="https://modworkshop.net/mydownloads/previews/preview_19364_1469226440_2874e10d717e998b3213a896976871cd.jpg" width="420"/><br>
   <i>(Click to view bigger version)</i>
 </p>
+- Blue "Payday 2 " Lootbags (Download: https://modworkshop.net/mydownloads.php?action=view_down&did=17550)
+- Camo Ammo Bag (Download: coming soon)
 <p align="center">
-  <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/>
+  <img src="https://modworkshop.net/mydownloads/previews/preview_19364_1473935160_b3457dbce362d177fd0190920e46a33d.png" width="420"/>
   <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/><br>
   <i>(Click to view bigger version)</i>
 </p>
+- First Aid Kit Bag (Download: coming soon)
 <p align="center">
   <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/>
   <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/><br>
