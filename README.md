@@ -60,7 +60,8 @@ __Just ignore the other files you have in the .zip folder!__
 
 __Bugs and suggestions for improvement__
 --
-Feel free to send us you ideas or advices for changes. You also can send us requests for modifications you would like.
+Feel free to send us you ideas or advices for changes (or textures/ mods you want to see in this pack). 
+You also can send us requests for modifications you would like.
 We will tell you if it´s possible and will implement it as soon as possible.
 If you find any bugs or have any problems feel free to contact us. 
 
@@ -70,6 +71,6 @@ http://steamcommunity.com/id/GumpSlider25__
 
 __License:__
 --
-No duplication, modification, or redistribution, without asking us.
+No duplication, modification, or redistribution, without asking us. (Exept changes you want to commit here)
 
 
