@@ -13,6 +13,12 @@ __included Mods:__
   <i>(Click to view bigger version)</i>
 </p>
 <p align="center">
+  <img src="http://modworkshop.net/mydownloads/previews/preview_19364_1460837007_02de299e26c80e84d352bd46c98d34c8.jpg" width="420"/>
+  <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/><br>
+  <i>(Click to view bigger version)</i>
+</p>
+
+<p align="center">
   <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/>
   <img src="http://abload.de/img/noimageavailablemdbnb.jpg" width="420"/><br>
   <i>(Click to view bigger version)</i>
