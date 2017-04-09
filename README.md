@@ -5,7 +5,7 @@ __included Mods:__
 - Digital Woodland Camo Vest Heavy (Download: http://modwork.shop/15912)
 - Digital Woodland Camo Vest Light (Download: http://modwork.shop/15912)
        
-       or
+    or
        
 - Urban Camo Vest Heavy (Download: http://modwork.shop/16448)
 - Urban Camo Vest Light (Download: http://modwork.shop/16448)
