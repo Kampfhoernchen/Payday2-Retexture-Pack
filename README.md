@@ -67,8 +67,7 @@ If you find any bugs or have any problems feel free to contact us.
 
 __You can post it on issues tab or contact us on Steam:<br>
 http://steamcommunity.com/id/the_real_brathoernchen<br>
-http://steamcommunity.com/id/GumpSlider25<br>
-https://steamcommunity.com/id/triplesixlp__
+http://steamcommunity.com/id/GumpSlider25
 
 __License:__
 --
